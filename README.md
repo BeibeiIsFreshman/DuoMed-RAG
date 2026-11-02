@@ -1,1 +1,2 @@
 # DuoMed-RAG
+Medical visual question answering (Med-VQA) requires models to accurately interpret complex medical images and integrate specialized medical knowledge to generate reliable answers. Despite recent advances in medical vision-language models, their performance remains challenged by insufficient perception of fine-grained visual details and limited interaction between visual evidence and medical knowledge. To address these challenges, we propose DuoMed-RAG, a dual-vision and knowledge-enhanced framework for medical visual question answering.
